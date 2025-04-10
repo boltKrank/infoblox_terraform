@@ -3,6 +3,8 @@
 ## Prep
 Firstly create a file called "terraform.tfvars"
 
+** Make sure this filename is in the .gitignore file so it isn't added to the repo **
+
 Inside that file populate the following:
 
 vsphere_user = ""
